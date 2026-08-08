@@ -1,9 +1,9 @@
 ---
-name: avoid-pitfalls
+name: avoid-pitfalls-skill
 description: 跨端应用开发避坑与经验借鉴。移动端适配（键盘/安全区/返回键）、权限、打包（setup/APK）、状态管理、AI 协作工作流——开发前后调用，提醒注意点并给出已验证的解法。
 ---
 
-# 避坑指南（avoid-pitfalls）
+# 避坑指南（avoid-pitfalls-skill）
 
 > 基于两个真实跨端项目（Tauri 桌面 + Capacitor Android + Web 三端应用；React + zustand + Capacitor 桌面 + 移动端应用）的全部实战经验。
 > 开发任何功能前/中/后调用本 skill，按类别对照检查，避免重复踩坑。
@@ -14,7 +14,7 @@ description: 跨端应用开发避坑与经验借鉴。移动端适配（键盘/
 本 skill 是一个完整包，包含：
 
 ```
-avoid-pitfalls/
+avoid-pitfalls-skill/
 ├── SKILL.md                    # 本文件（入口 playbook）
 ├── README.md                   # 包说明（作者：ralcer-he）
 ├── LICENSE.txt                 # MIT 协议

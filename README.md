@@ -1,4 +1,4 @@
-# 🛡️ avoid-pitfalls · AI 编程避坑指南
+# 🛡️ avoid-pitfalls-skill · AI 编程避坑指南
 
 > 一份基于真实开发经验整理的踩坑手册。
 > 作者：**ralcer-he**（GitHub: [@ralcer-he](https://github.com/ralcer-he)）
@@ -40,7 +40,7 @@
 ## 包结构
 
 ```
-avoid-pitfalls/
+avoid-pitfalls-skill/
 ├── SKILL.md                    # 入口 playbook（AI 调用时读这份）
 ├── README.md                   # 本文件
 ├── LICENSE.txt                 # MIT 协议
@@ -65,8 +65,8 @@ avoid-pitfalls/
 如果你用的 AI 工具支持 skill（如 Reasonix），直接：
 
 ```
-/avoid-pitfalls                    # 加载避坑 playbook
-/avoid-pitfalls 帮我开发新页面      # 带任务调用，AI 会自动对照检查
+/avoid-pitfalls-skill                    # 加载避坑 playbook
+/avoid-pitfalls-skill 帮我开发新页面      # 带任务调用，AI 会自动对照检查
 ```
 
 ### 方式二：人工对照
